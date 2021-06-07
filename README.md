@@ -1,1 +1,1 @@
-# surrealauncher.github.io
+# surrealauncher.xyz
